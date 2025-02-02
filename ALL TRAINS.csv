@@ -1,0 +1,12 @@
+Train ID,Train Source,Train Destination,Seats Availability,Departure Time
+-1,,,12,0
+1001,Mumbai,Pune,105,13.11
+1002,Pune,Mumbai,150,13.11
+1003,Delhi,Hyderabad,100,13.11
+1004,Banglore,Mumbai,150,13.11
+1005,Hyderabad,Pune,100,13.11
+1006,Mumbai,Delhi,153,9.05
+1007,Pune,Banglore,100,9.05
+1008,Delhi,Pune,150,9.05
+1009,Banglore,Delhi,100,9.05
+1010,Banglore,Delhi,150,13.15
